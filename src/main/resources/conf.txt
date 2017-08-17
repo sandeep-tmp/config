@@ -1,0 +1,22 @@
+Var1 = Value1
+Var2 = Value2
+Section-1
+Var1 = Value1.0
+Var3 = Value3.0
+Sub-section-1
+
+Var1 = Value1.1
+Var2 = Value2.1
+Sub-section-1_1
+Var1 = Value1.1_1
+
+Sub-Section-2
+Var2 = Value2.2
+Var3 = Value3.2
+
+Section-2
+Var1 = Value1.0
+Sub-section-1
+
+Var1 = Value1.1
+Var2 = Value2.1
